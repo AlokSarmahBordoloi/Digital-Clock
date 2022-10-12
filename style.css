@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.container{
+    font-family: 'Baloo Bhaijaan 2', cursive;;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left:  50%;
+    transform: translate(-50%,-50%);
+    font-size: 80px;
+}
+
+#date {
+    letter-spacing:5px;
+    font-size:40px;
+    font-family:'Ballo Bhaijaan 2', cursive;
+    color:rgb(161, 56, 236);
+}
